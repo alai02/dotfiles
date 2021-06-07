@@ -98,8 +98,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias socsvm="ssh alai02@linux.socs.uoguelph.ca"
-alias sch="cd /Users/alai02/Documents/School"
+# alias socsvm="ssh alai02@linux.socs.uoguelph.ca"
+# alias sch="cd /Users/alai02/Documents/School"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ -f ~/.p10k.zsh ]] && source ~/.p10k.zsh
